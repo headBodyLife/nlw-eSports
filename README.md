@@ -1,2 +1,2 @@
 # nlw-eSports
-Semana Desevonvilmento NLW eSports 
+Semana Desenvolvimento NLW eSports 
